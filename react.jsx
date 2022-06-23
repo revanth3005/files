@@ -8,4 +8,15 @@ const react = () => {
   )
 }
 
-export default react
+// export default react
+import React from 'react'
+
+const reacts = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default reacts
