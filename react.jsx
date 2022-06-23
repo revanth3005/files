@@ -19,4 +19,16 @@ const reacts = () => {
   )
 }
 
-export default reacts
+// export default reacts
+
+import Reactss from 'react'
+
+const reacts = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default Reactss
